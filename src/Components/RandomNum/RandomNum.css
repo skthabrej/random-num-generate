@@ -1,0 +1,62 @@
+.bg-container {
+    background-image: url('https://i.ibb.co/zfnLKLL/pexels-pixabay-531880.jpg');
+    height: 100vh;
+    background-size: cover;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .card-1 {
+    background-image: url('https://i.ibb.co/HY7vPmk/pexels-miguel-padri-n-255379.jpg');
+    border-radius: 20px;
+    border-style: solid;
+    border-color: #e4ebf3;
+    border-width: 5px;
+    background-size: cover;
+  }
+  
+  .heading-1 {
+    color: #f78b4c;
+    font-family: 'Roboto';
+    text-align: center;
+    margin-top: 25px;
+  }
+  
+  .paragraph-1 {
+    color: #1a1818;
+    font-family: 'Roboto';
+    text-align: center;
+    font-weight: bold;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin: 6px;
+  }
+  
+  .btn-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+  
+  .btn-style {
+    background-color: #0b69ff;
+    color: #ffffff;
+    border-radius: 10px;
+    border-width: 0;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 20px;
+    width: 150px;
+    outline: none;
+  }
+  
+  .random-number {
+    color: #0b69ff;
+    text-align: center;
+    font-size: 100px;
+    font-weight: bold;
+    margin-top: 15px;
+  }
+  
